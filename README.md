@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is behnam and I'm a webdeveloper, from Iran</p>
+<p align="left">My name is Behnam and I'm a web developer, from Iran</p>
 
 ###
 
