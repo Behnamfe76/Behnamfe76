@@ -54,7 +54,6 @@ I'm a full-stack developer with 6 years of experience building web applications 
 | [**laravel-reverb-chat**](https://github.com/Behnamfe76/laravel_reverb_chat) | Real-time chat app built on Laravel Reverb WebSockets | Laravel · Reverb · Inertia · Vue 3 |
 | [**golang-web-api**](https://github.com/Behnamfe76/golang_web_api) | RESTful API in Go with [routing / auth / DB — fill in] | Go · [DB] |
 | [**symfony-blog**](https://github.com/Behnamfe76/symfony-blog) | Micro-blog with [auth, posts, comments — fill in] | Symfony 7 · Twig · Doctrine |
-| [**[your best real project]**]([link]) | [one-line description] | [stack] |
 
 ---
 
